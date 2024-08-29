@@ -1,0 +1,2 @@
+# Vernon Wee Hong KOH's Resume Website
+Vernon Wee Hong KOH’s resume repository offers a detailed overview of his professional achievements and skills. It highlights his expertise in crafting engaging user interfaces (UIs) and developing robust application programming interfaces (APIs). This repository reflects Vernon’s commitment to lifelong learning and his active role in the developer
